@@ -1,0 +1,13 @@
+{
+  "name": "live",
+  "version": "1.0.0",
+  "description": "live stack",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diim010",
+  "license": "ISC"
+}
