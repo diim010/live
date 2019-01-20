@@ -1,3 +1,4 @@
+
 @import "vars";
 @import "fonts";
 @import "libs";
@@ -47,7 +48,17 @@ body {
 b, strong {
 	font-weight: bold;
 }
-
-
-
+body {
+	background-color: #b3b3b3;
+}
+ul li {
+	list-style: none;
+}
+.subheader {
+	font-weight: 300;
+	letter-spacing: 2px;
+}
+footer {
+	background-color: #222;
+}
 @import "media"; // Always at the end
